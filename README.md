@@ -1,16 +1,13 @@
 ### Hi there 👋
 
 
-<section style="display: flex;">
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nomad-mystic&theme=dark" />
-  </div>
-  
-  <div>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nomad-mystic&layout=compact&langs_count=8&card_width=400&theme=dark" />
-  </div>
-  
-</section>
+<a href="https://github.com/nomad-mystic">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nomad-mystic&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nomad-mystic&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
+
   
 <p>&nbsp;</p>
 
