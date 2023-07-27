@@ -1,13 +1,18 @@
 ### Hi there 👋
 
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nomad-mystic&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nomad-mystic&layout=compact&langs_count=8&card_width=350&theme=dark" />
-</a>
+<section style="display: flex;">
+  <div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nomad-mystic&theme=dark" />
+  </div>
+  
+  <div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nomad-mystic&layout=compact&langs_count=8&card_width=400&theme=dark" />
+  </div>
+  
+</section>
+  
+<p>&nbsp;</p>
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=nomad-mystic&theme=dark&hide_border=true&card_width=1000)](https://git.io/streak-stats)
  
